@@ -1,0 +1,11 @@
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\bin\Debug\netcoreapp3.1\Homework06.exe
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\bin\Debug\netcoreapp3.1\Homework06.deps.json
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\bin\Debug\netcoreapp3.1\Homework06.runtimeconfig.json
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\bin\Debug\netcoreapp3.1\Homework06.runtimeconfig.dev.json
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\bin\Debug\netcoreapp3.1\Homework06.dll
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\bin\Debug\netcoreapp3.1\Homework06.pdb
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\obj\Debug\netcoreapp3.1\Homework06.csprojAssemblyReference.cache
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\obj\Debug\netcoreapp3.1\Homework06.AssemblyInfoInputs.cache
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\obj\Debug\netcoreapp3.1\Homework06.AssemblyInfo.cs
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\obj\Debug\netcoreapp3.1\Homework06.dll
+C:\Users\Boki\Desktop\Homeworks_CS\Homework06\Homework06\obj\Debug\netcoreapp3.1\Homework06.pdb

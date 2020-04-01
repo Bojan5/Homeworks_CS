@@ -91,38 +91,39 @@ namespace Homework04
 
             // TASK 05....................................................................................
 
-            //int[] oddEvenArray = { 10, 23, 44, 123, 55, 52, 98, 99, 102, 103, 152, 49 };
-            //int[] oddArray = new int[10];
-            //int[] evenArray = new int[10];
+            int[] oddEvenArray = { 10, 23, 44, 123, 55, 52, 98, 99, 102, 103, 152, 49 };
+            int[] oddArray = new int[10];
+            int[] evenArray = new int[10];
 
-            //int m;
-            //int n = 0;
-            //int k = 0;
+            int m;
+            int n = 0;
+            int k = 0;
 
-            //for (m = 0; m < oddEvenArray.Length; m++)
-            //{
-            //    if (oddEvenArray[m] % 2 == 0)
-            //    {
-            //        evenArray[n] = oddEvenArray[m];
-            //        n++;
-            //    }else
-            //    {
-            //        oddArray[k] = oddEvenArray[m];
-            //        k++;
-            //    }
-            //}
+            for (m = 0; m < oddEvenArray.Length; m++)
+            {
+                if (oddEvenArray[m] % 2 == 0)
+                {
+                    evenArray[n] = oddEvenArray[m];
+                    n++;
+                }
+                else
+                {
+                    oddArray[k] = oddEvenArray[m];
+                    k++;
+                }
+            }
 
-            //for (m = 0; m < n; m++)
-            //{
-            //    Console.WriteLine("EvenArray elements are :" + evenArray[m]);
-            //}
-            //    Console.WriteLine("-----------------------");
+            for (m = 0; m < n; m++)
+            {
+                Console.WriteLine("EvenArray elements are :" + evenArray[m]);
+            }
+            Console.WriteLine("-----------------------");
 
-            //    for (m = 0; m < k; m++)
-            //    {
-            //        Console.WriteLine("OddArray elements are :" + oddArray[m]);
-            //    }
-            //    Console.ReadLine();
+            for (m = 0; m < k; m++)
+            {
+                Console.WriteLine("OddArray elements are :" + oddArray[m]);
+            }
+            Console.ReadLine();
 
 
             // TASK 06.................................................................................
@@ -168,41 +169,41 @@ namespace Homework04
 
             // TASK 07.....................................................................................
 
-            string[] userNames = { "user1", "user2", "user3" };
-            string[] passwords = { "first", "second", "third" };
+            //string[] userNames = { "user1", "user2", "user3" };
+            //string[] passwords = { "first", "second", "third" };
 
-            while (true)
-            {
-                Console.WriteLine("Please enter your username :");
-                string userInput = (Console.ReadLine());
+            //while (true)
+            //{
+            //    Console.WriteLine("Please enter your username :");
+            //    string userInput = (Console.ReadLine());
 
-                Console.WriteLine("Please enter your password :");
-                string passwordInput = (Console.ReadLine());
+            //    Console.WriteLine("Please enter your password :");
+            //    string passwordInput = (Console.ReadLine());
 
-                if (userInput == userNames[0] && passwordInput == passwords[0])
-                {
-                    Console.WriteLine("You are logged in successfully!");
-                    break;
-                }
+            //    if (userInput == userNames[0] && passwordInput == passwords[0])
+            //    {
+            //        Console.WriteLine("You are logged in successfully!");
+            //        break;
+            //    }
 
-                else if (userInput == userNames[1] && passwordInput == passwords[1])
-                {
-                    Console.WriteLine("You are logged in successfully!");
-                    break;
-                }
+            //    else if (userInput == userNames[1] && passwordInput == passwords[1])
+            //    {
+            //        Console.WriteLine("You are logged in successfully!");
+            //        break;
+            //    }
 
-                else if (userInput == userNames[2] && passwordInput == passwords[2])
-                {
-                    Console.WriteLine("You are logged in successfully!");
-                    break;
-                }
+            //    else if (userInput == userNames[2] && passwordInput == passwords[2])
+            //    {
+            //        Console.WriteLine("You are logged in successfully!");
+            //        break;
+            //    }
 
-                else
-                {
-                    Console.WriteLine("Incorrect username or password!");
-                }
-            }
-            Console.ReadLine();
+            //    else
+            //    {
+            //        Console.WriteLine("Incorrect username or password!");
+            //    }
+            //}
+            //Console.ReadLine();
 
 
 
