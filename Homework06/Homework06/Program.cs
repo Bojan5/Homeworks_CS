@@ -6,7 +6,7 @@ namespace Homework06
     {
         static void Main(string[] args)
         {
-            char[] operators = new char[] { '+', '-', '*', '/', 's', 'S' };
+            char[] operators = new char[] { '+', '-', '*', '/', 'S' };
             char InputChar;
 
             while (true)
@@ -16,13 +16,7 @@ namespace Homework06
 
                 while (true)
                 {
-                    Console.WriteLine("Input type of arithmetic operation");
-
-                    //Console.WriteLine("+");
-                    //Console.WriteLine("-");
-                    //Console.WriteLine("*");
-                    //Console.WriteLine("/");
-                    //Console.WriteLine("S");
+                    Console.WriteLine("Input type of arithmetic operation (+, -, *, /)");
 
                     bool answer = char.TryParse(Console.ReadLine(), out InputChar);
                     if (answer && Array.IndexOf(operators, InputChar) != -1)
@@ -32,7 +26,7 @@ namespace Homework06
                     Console.WriteLine("Invalid operation selected.The application will automatically close");
                 }
 
-                if (InputChar == 'S')
+                if (InputChar == 's')
                 {
                     Console.ForegroundColor = ConsoleColor.Green;
                     Console.WriteLine("You have not used calculator.Thank you for the interest,try the calculation another time.The application wil automatically close.");
@@ -47,12 +41,13 @@ namespace Homework06
                     numInputOne = Console.ReadLine();
                     bool parsed = int.TryParse(numInputOne, out numOne);
 
-                    if (!parsed)
+                    if (parsed)
                     {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Invalid input numbers.The application will automatically close:");
+                        break;
                     }
-                    break;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Invalid input numbers.The application will automatically close:");
+                   
                 }
 
                 int numTwo;
@@ -62,12 +57,13 @@ namespace Homework06
                     numInputTwo = Console.ReadLine();
                     bool parsed = int.TryParse(numInputTwo, out numTwo);
 
-                    if (!parsed)
+                    if (parsed)
                     {
-                        Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine("Invalid input numbers.The application will automatically close:");
+                        break;
                     }
-                    break;
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine("Invalid input numbers.The application will automatically close:");
+                   
                 }
 
                 switch (InputChar)
@@ -81,13 +77,13 @@ namespace Homework06
                     case '-':
                         int minus = Substract(numOne, numTwo);
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Result: + {minus}");
+                        Console.WriteLine($"Result: {minus}");
                         break;
 
                     case '*':
                         int product = Multiply(numOne, numTwo);
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Result: + {product}");
+                        Console.WriteLine($"Result: {product}");
                         break;
 
                     case '/':
@@ -100,7 +96,7 @@ namespace Homework06
                             break;
                         }
                         Console.ForegroundColor = ConsoleColor.Green;
-                        Console.WriteLine($"Result: + { result}");
+                        Console.WriteLine($"Result: {result}");
                         break;
 
                     default:
