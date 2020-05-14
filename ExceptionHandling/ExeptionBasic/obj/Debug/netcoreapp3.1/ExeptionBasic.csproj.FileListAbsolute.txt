@@ -1,0 +1,11 @@
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\bin\Debug\netcoreapp3.1\ExeptionBasic.exe
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\bin\Debug\netcoreapp3.1\ExeptionBasic.deps.json
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\bin\Debug\netcoreapp3.1\ExeptionBasic.runtimeconfig.json
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\bin\Debug\netcoreapp3.1\ExeptionBasic.runtimeconfig.dev.json
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\bin\Debug\netcoreapp3.1\ExeptionBasic.dll
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\bin\Debug\netcoreapp3.1\ExeptionBasic.pdb
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\obj\Debug\netcoreapp3.1\ExeptionBasic.csprojAssemblyReference.cache
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\obj\Debug\netcoreapp3.1\ExeptionBasic.AssemblyInfoInputs.cache
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\obj\Debug\netcoreapp3.1\ExeptionBasic.AssemblyInfo.cs
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\obj\Debug\netcoreapp3.1\ExeptionBasic.dll
+C:\Users\Boki\Desktop\Homeworks_CS\ExceptionHandling\ExeptionBasic\obj\Debug\netcoreapp3.1\ExeptionBasic.pdb

@@ -1,0 +1,11 @@
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\bin\Debug\netcoreapp3.1\MovieApp.exe
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\bin\Debug\netcoreapp3.1\MovieApp.deps.json
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\bin\Debug\netcoreapp3.1\MovieApp.runtimeconfig.json
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\bin\Debug\netcoreapp3.1\MovieApp.runtimeconfig.dev.json
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\bin\Debug\netcoreapp3.1\MovieApp.dll
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\bin\Debug\netcoreapp3.1\MovieApp.pdb
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.csprojAssemblyReference.cache
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.AssemblyInfoInputs.cache
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.AssemblyInfo.cs
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.dll
+C:\Users\Boki\Desktop\Homeworks_CS\MovieApp\MovieApp\obj\Debug\netcoreapp3.1\MovieApp.pdb
